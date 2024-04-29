@@ -14,5 +14,9 @@ Tamkang University Bachelor of International Business   Sep 2018 - Jun 2022
 -	Reported and examined suspicious transactions swiftly, reducing potential money laundering risks.
 -	Updated and maintained the AML database by incorporating Know-Your-Customer data and recording completed investigations to ensure data integrity.
 
- ## Project
- 
+## Projects
+**Sustainable Wedding Vendors Analysis	                       Dec 2023
+- Identified a 55% adoption rate of sustainable practices among wedding vendors using SQL and Python’s Pandas, indicating a notable market trend toward sustainability.
+-	Performed exploratory data analysis (EDA) with Python, deriving two actionable insights and illustrating findings through comprehensive data visualizations with Matplotlib and Seaborn.
+
+
