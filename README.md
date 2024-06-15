@@ -19,7 +19,8 @@ Tamkang University Bachelor of International Business   Sep 2018 - Jun 2022
 - Identified a 55% adoption rate of sustainable practices among wedding vendors using SQL and Python’s Pandas, indicating a notable market trend toward sustainability.
 -	Performed exploratory data analysis (EDA) with Python, deriving two actionable insights and illustrating findings through comprehensive data visualizations with Matplotlib and Seaborn.
 
-**Moneyball Capstone Project (_Feb 2024_)**
+**<a href="https://github.com/VC94123/Vivi-Portfolio/tree/main/Moneyball%20Capstone%20Project">Moneyball Capstone Project</a>
+**
 - Leveraged R's dplyr for data cleaning and applied ggplot2 for visual analytics, providing a robust foundation for strategic roster management decisions and player performance assessments.
 -	Achieved significant cost savings in team budgeting, culminating in an impressive $8.24 million reduction in player salaries without compromising on talent acquisition and team competitiveness.
 
