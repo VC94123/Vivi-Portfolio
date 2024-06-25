@@ -13,7 +13,7 @@ Python, SQL, R, Tableau
 ## Work Experience
 
 **CitiBank**  
-*Anti-Money Laundering (AML) Analyst<span style="float:right;">*Sep 2022 – Jul 2023*</span> 
+Anti-Money Laundering (AML) Analyst<span style="float:right;">*Sep 2022 – Jul 2023*</span> 
 - Surpassed case review goals by 150%, delivering results a month ahead of schedule, and enhancing departmental productivity.
 - Collaborated with financial managers to analyze customer assets and transactions, investigating accounts with AML concerns.
 -	Reported and examined suspicious transactions swiftly, reducing potential money laundering risks.
