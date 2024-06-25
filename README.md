@@ -1,10 +1,10 @@
 ## Education
 **Hult International Business School**  
-Master of Science in Finance             Oct 2024 - Apr 2025  
-Master of Science in Business Analytics  Sep 2023 - Aug 2024  
+Master of Science in Finance             *Oct 2024 - Apr 2025*  
+Master of Science in Business Analytics  *Sep 2023 - Aug 2024*  
 
 **Tamkang University**  
-Bachelor of International Business       Sep 2018 - Jun 2022  
+Bachelor of International Business       *Sep 2018 - Jun 2022*  
 
 ## Technical Skills
 Python, SQL, R, Tableau
@@ -12,7 +12,7 @@ Python, SQL, R, Tableau
 ## Work Experience
 
 **CitiBank**  
-*Anti-Money Laundering (AML) Analyst     Sep 2022 – Jul 2023*    
+*Anti-Money Laundering (AML) Analyst     *Sep 2022 – Jul 2023*    
 - Surpassed case review goals by 150%, delivering results a month ahead of schedule, and enhancing departmental productivity.
 - Collaborated with financial managers to analyze customer assets and transactions, investigating accounts with AML concerns.
 -	Reported and examined suspicious transactions swiftly, reducing potential money laundering risks.
