@@ -21,18 +21,18 @@ Python, SQL, R, Tableau
 
 ## Projects
 
-### [Classification Modeling Case Study (Apr 2024)](https://github.com/VC94123/Vivi-Portfolio/tree/main/Classification%20Modeling)  
+### [Classification Modeling Case Study (Apr 2024)](https://github.com/VC94123/Vivi-Portfolio/blob/main/Classification%20Modeling/Predict%20the%20low%20birth%20weight.ipynb)   
 - Utilized machine learning techniques, including Logistic Regression and Random Forest, to predict birthweight, achieving a top 15 ranking in a competitive Kaggle challenge, enhancing understanding of factors influencing low birthweight.  
 - Conducted medical research and data analysis to uncover hereditary and environmental factors affecting birthweight, engaged in feature engineering, and provided two insights that shaped public health policies and strategies for preventing low birthweight complications.
 
-### [Regression Modeling Case Study (Feb 2024)](https://github.com/VC94123/Vivi-Portfolio/tree/main/Regression%20Modeling)  
+### [Regression Modeling Case Study (Feb 2024)](https://github.com/VC94123/Vivi-Portfolio/blob/main/Regression%20Modeling/Predict%20the%20number%20of%20bike%20rentals.ipynb)   
 - Developed a predictive model for daily bike rentals in Chicago using multiple regression techniques including OLS, Lasso, Ridge, and Elastic Net, adhering to strict performance and coding standards set by a Kaggle competition, resulting in a top 10 class ranking with a prediction accuracy of 75.4%.  
 - Conducted comprehensive data analysis for the Cook County Planning and Development Department, implementing exploratory data analysis, data preprocessing, and feature engineering to enhance model performance and provide actionable insights into factors affecting bike rental demand.
 
-### [Moneyball Capstone Project (Feb 2024)](https://github.com/VC94123/Vivi-Portfolio/tree/main/Moneyball%20Capstone%20Project)  
+### [Moneyball Capstone Project (Feb 2024)](https://github.com/VC94123/Vivi-Portfolio/blob/main/Moneyball%20Capstone%20Project/Moneyball%20Capstone%20Project%20.R)  
 - Leveraged R's dplyr for data cleaning and applied ggplot2 for visual analytics, providing a robust foundation for strategic roster management decisions and player performance assessments.  
 - Achieved significant cost savings in team budgeting, culminating in an impressive $8.24 million reduction in player salaries without compromising on talent acquisition and team competitiveness.
 
-### [Sustainable Wedding Vendors Analysis (Dec 2023)](https://github.com/VC94123/Vivi-Portfolio/tree/main/Sustainable%20Wedding%20Vendors%20Analysis%20Project)  
+### [Sustainable Wedding Vendors Analysis (Dec 2023)](https://github.com/VC94123/Vivi-Portfolio/blob/main/Sustainable%20Wedding%20Vendors%20Analysis%20Project/Sustainable%20Wedding%20Vendors%20Analysis%20Project.ipynb)  
 - Identified a 55% adoption rate of sustainable practices among wedding vendors using SQL and Python’s Pandas, indicating a notable market trend toward sustainability.  
 - Performed exploratory data analysis (EDA) with Python, deriving two actionable insights and illustrating findings through comprehensive data visualizations with Matplotlib and Seaborn.
