@@ -22,7 +22,7 @@ Anti-Money Laundering (AML) Analyst<span style="float:right;">*Sep 2022 – Jul 
 ## Projects
 
 ### [Classification Modeling Case Study (Apr 2024)](https://github.com/VC94123/Vivi-Portfolio/blob/main/Classification%20Modeling/Predict%20the%20low%20birth%20weight.ipynb)   
-- Utilized machine learning techniques, including Logistic Regression and Random Forest, to predict birthweight, achieving a top 15 ranking in a competitive Kaggle challenge, enhancing understanding of factors influencing low birthweight.  
+- Utilized machine learning techniques, including Logistic Regression and Random Forest, to predict birthweight, achieving a top 15 ranking in a competitive Kaggle challenge. Enhanced understanding of factors influencing low birthweight and assessed model accuracy using a confusion matrix. 
 - Conducted medical research and data analysis to uncover hereditary and environmental factors affecting birthweight, engaged in feature engineering, and provided two insights that shaped public health policies and strategies for preventing low birthweight complications.
 
 ### [Regression Modeling Case Study (Feb 2024)](https://github.com/VC94123/Vivi-Portfolio/blob/main/Regression%20Modeling/Predict%20the%20number%20of%20bike%20rentals.ipynb)   
