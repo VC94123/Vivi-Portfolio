@@ -21,6 +21,10 @@ Anti-Money Laundering (AML) Analyst<span style="float:right;">*Sep 2022 – Jul 
 
 ## Projects
 
+### [Unsupervised Analysis Project (Apr 2024)](https://github.com/VC94123/Vivi-Portfolio/blob/main/Unsupervised%20Analysis%20Project/Unsupervised%20Analysis%20Project.ipynb)   
+- Led an in-depth unsupervised analysis using PCA on social media engagement metrics, identifying key drivers like "User Interaction" and "Positive Sentiment" to assess the impact of photo content for Facebook Live sellers in Thailand.
+- Conducted k-means clustering and logistic regression analysis on social media content, achieving a low train-test gap of 0.008 and ensuring robust model performance. Analyzed engagement and sentiment patterns to identify key content clusters.
+
 ### [Classification Modeling Case Study (Apr 2024)](https://github.com/VC94123/Vivi-Portfolio/blob/main/Classification%20Modeling/Predict%20the%20low%20birth%20weight.ipynb)   
 - Utilized machine learning techniques, including Logistic Regression and Random Forest, to predict birthweight, achieving a top 15 ranking in a competitive Kaggle challenge. Enhanced understanding of factors influencing low birthweight and assessed model accuracy using a confusion matrix. 
 - Conducted medical research and data analysis to uncover hereditary and environmental factors affecting birthweight, engaged in feature engineering, and provided two insights that shaped public health policies and strategies for preventing low birthweight complications.
